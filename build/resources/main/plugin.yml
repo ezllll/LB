@@ -1,0 +1,11 @@
+name: LB
+version: '1.0'
+main: cleafox.lb.LB
+api-version: '1.20'
+description: 礼包功能
+author: Clea_fox~
+commands:
+  LB:
+    description: 领取礼包
+    usage: /<command>
+    aliases: ["???"]
